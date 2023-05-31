@@ -14,3 +14,9 @@ friends_time.shift
 
 #This is going to add false to the front of my array
 friends_male.unshift(false)
+
+#Index positions are the order positions of elements in an array
+#Heres a code example
+puts friends[2]
+#This should give us "Mark"
+
