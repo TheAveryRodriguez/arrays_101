@@ -18,5 +18,12 @@ friends_male.unshift(false)
 #Index positions are the order positions of elements in an array
 #Heres a code example
 puts friends[2]
+
 #This should give us "Mark"
 
+#I learned about .count 
+#This method returns the number of elements in an array
+#Here is an example
+friends.count
+
+#This should return 4 (Number of elements in friends varaible)
